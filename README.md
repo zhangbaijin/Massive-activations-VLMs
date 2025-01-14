@@ -29,3 +29,8 @@ python ./src/FastV/inference/plot_inefficient_attention_massive.py \
     --output-path "./output_example"\
 ```
 it will obtain a json file contain massive activation weights.
+
+## Visualization
+```
+python plt_massive.py  
+```
