@@ -22,10 +22,10 @@ bash ./src/FastV/inference/visualization.sh
 ```
 or
 ```bash
-python ./src/FastV/inference/plot_inefficient_attention.py \
+python ./src/FastV/inference/plot_inefficient_attention_massive.py \
     --model-path "PATH-to-HF-LLaVA1.5-Checkpoints" \
     --image-path "./src/LLaVA/images/llava_logo.png" \
     --prompt "Describe the image in details."\
     --output-path "./output_example"\
 ```
-
+it will obtain a json file contain massive activation weights.
