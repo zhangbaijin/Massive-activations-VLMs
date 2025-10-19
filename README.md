@@ -34,3 +34,16 @@ it will obtain a json file contain massive activation weights.
 ```
 python plt_massive.py  
 ```
+## Citation
+```bibtex
+@article{zhang2026drives,
+  title={What drives attention sinks? A study of massive activations and rotational positional encoding in large vision--language models},
+  author={Zhang, Xiaofeng and Zhu, Yuanchao and Gu, Chaochen and Cao, Jiawei and Cheng, Hao and Wu, Kaijie},
+  journal={Information Processing \& Management},
+  volume={63},
+  number={2},
+  pages={104431},
+  year={2026},
+  publisher={Elsevier}
+}
+```
